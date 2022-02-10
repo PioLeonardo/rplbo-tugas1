@@ -6,5 +6,8 @@ public class Tugas71190461 {
             sum = sum + i;
         }
     System.out.println(sum);
+    System.out.println("TERIMAKASIH")
+    System.out.println("71200531")
+    System.out.println("Pio Leonardo Gunadi")
     }
 }
